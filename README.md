@@ -15,7 +15,6 @@ Using the CSV tables we illustrated the following table.
 ![MicrosoftTeams-image (11)](https://user-images.githubusercontent.com/24376585/126197238-e743415b-f197-4db6-a236-fc2dd75d3f6d.png)
 
 
-
 ## Ethnicity 
 
 * Using [this](/ethnicity) script, we make a table that would be used to generate pie charts for the ethnicity distribution of any cohort (shown in the figure below)
@@ -28,6 +27,7 @@ Using the CSV tables we illustrated the following table.
 
 * To check for the available modality and plot the ranks, we can use [this script](/Modality_overview)
 ![Cohorts_data_availability (2)](https://user-images.githubusercontent.com/24376585/126503425-a6ccd1b7-d91b-4580-98bd-c7185083c4cf.png)
+
 
 ## Biomarkers
 
@@ -45,10 +45,6 @@ The tables are then used to generate boxplot for numerical features and stacked 
 
 * To investigate the number of visits for each study cohort as well as the number of patients in each diagnosis stage, use [this script](/longitudinal_follow-up.ipynb)
 ![all_line_long_plot](https://user-images.githubusercontent.com/24376585/126503535-3b8f5406-41b1-4433-ad3c-51e49b5580b2.png)
-
-## Total Mapped Feature
-
-* Using [this script](/mapped_features) one can compute the number of mapped features for each modality
 
 
 ## Number of conversions from one state to another
