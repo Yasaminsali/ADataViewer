@@ -2,7 +2,7 @@
 
 Exploring the Alzheimer's Disease Data Landscape
 
-# Artifacts
+## Artifacts
 [![DOI](https://zenodo.org/badge/417242404.svg)](https://zenodo.org/badge/latestdoi/417242404)
 
 
