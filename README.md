@@ -1,6 +1,6 @@
 # ADataViewer
 
-Source code and scripts to process the datasets using in the paper 
+Source code and scripts to process the datasets using in the paper [ADataViewer: Exploring Semantically Harmonized Alzheimer’s Disease Cohort Datasets](/https://www.medrxiv.org/content/10.1101/2021.09.01.21262607v1)
 
 ## Artifacts
 [![DOI](https://zenodo.org/badge/417242404.svg)](https://zenodo.org/badge/latestdoi/417242404)
@@ -88,3 +88,7 @@ The figure below is an example of longitudinal plot for a set of features in 4 d
 
 * Yasamin Salimi: yasamin.salimi@scai.fraunhofer.de
 * Colin Birkenbihl: colin.birkenbihl@scai.fraunhofer.de
+
+## Citation
+Salimi, Y., Domingo‐Fernándéz, D., Bobis-Álvarez, C., Hofmann‐Apitius, M., for the Alzheimer's Disease Neuroimaging Initiative, the Japanese Alzheimer’s Disease Neuroimaging Initiative, for the Aging Brain: Vasculature, Ischemia, and Behavior Study, the Alzheimer's Disease Repository Without Borders Investigators, for the European Prevention of Alzheimer’s Disease (EPAD) Consortium, Birkenbihl, C. ADataViewer: Exploring Semantically Harmonized Alzheimer’s Disease Cohort Datasets (2021),  bioRxiv, 2021.09.01.21262607
+
