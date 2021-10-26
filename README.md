@@ -1,6 +1,6 @@
 # ADataViewer
 
-Source code and scripts to process the datasets using in the paper [ADataViewer: Exploring Semantically Harmonized Alzheimer’s Disease Cohort Datasets](/https://www.medrxiv.org/content/10.1101/2021.09.01.21262607v1)
+Source code and scripts to process the datasets using in the paper: [ADataViewer: Exploring Semantically Harmonized Alzheimer’s Disease Cohort Datasets](/https://www.medrxiv.org/content/10.1101/2021.09.01.21262607v1)
 
 ## Artifacts
 [![DOI](https://zenodo.org/badge/417242404.svg)](https://zenodo.org/badge/latestdoi/417242404)
