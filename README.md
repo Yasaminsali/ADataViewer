@@ -1,6 +1,6 @@
 # ADataViewer
 
-Exploring the Alzheimer's Disease Data Landscape
+Source code and scripts to process the datasets using in the paper 
 
 ## Artifacts
 [![DOI](https://zenodo.org/badge/417242404.svg)](https://zenodo.org/badge/latestdoi/417242404)
@@ -83,3 +83,8 @@ The figure below is an exmaple of StudyPicker".
 
 The figure below is an example of longitudinal plot for a set of features in 4 distinct cohorts.
 ![study_picker_result](https://user-images.githubusercontent.com/24376585/126516566-13da33e2-965b-4ea2-9759-3919b0573bcf.png)
+
+## Contact
+
+* Yasamin Salimi: yasamin.salimi@scai.fraunhofer.de
+* Colin Birkenbihl: colin.birkenbihl@scai.fraunhofer.de
