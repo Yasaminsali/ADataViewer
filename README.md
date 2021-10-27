@@ -1,6 +1,6 @@
 # ADataViewer
 
-Source code and scripts to process the datasets using in the paper: [ADataViewer: Exploring Semantically Harmonized Alzheimer’s Disease Cohort Datasets](/https://www.medrxiv.org/content/10.1101/2021.09.01.21262607v1)
+Source code and scripts to process the datasets using in the paper: [ADataViewer: Exploring Semantically Harmonized Alzheimer’s Disease Cohort Datasets](/https://www.medrxiv.org/content/10.1101/2021.09.01.21262607v1).
 
 ## Artifacts
 [![DOI](https://zenodo.org/badge/417242404.svg)](https://zenodo.org/badge/latestdoi/417242404)
@@ -8,10 +8,10 @@ Source code and scripts to process the datasets using in the paper: [ADataViewer
 
 ## Summary statistics
 
-* The summary statistics were computed [here](/quantiles) (quantiles) and [here](/means) (mean)
-    * There are 4 distinct scripts that are used to compute the summary statistics
-    * Each script is dedicated to select a subset of participants based on a diagnostic group except one where we take all diagnoses into account. For instance "AD_quantiles_all_datasets-v100.ipynb" is used to compute summary statistics of the selected features for participants that were diagnosed with AD. Note: we restrict the datasets to only baseline visit here.
-    * The computed summary statistics are then saved as a CSV file [here](/adata_resources) 
+* The summary statistics were computed [here](/quantiles) (quantiles) and [here](/means) (mean).
+    * There are 4 distinct scripts that are used to compute the summary statistics.
+    * Each script is dedicated to select a subset of participants based on a diagnostic group except one where we take all diagnoses into account. For instance         "AD_quantiles_all_datasets-v100.ipynb" is used to compute summary statistics of the selected features for participants that were diagnosed with AD. Note: we       restrict the datasets to only baseline visit here.
+    * The computed summary statistics are then saved as a CSV file [here](/adata_resources). 
 
 Using the CSV tables we illustrated the following table.
 
@@ -61,7 +61,7 @@ The following table illustrates the number of patients for each transition
 
 ## StudyPicker, Longitudinal Follow-up, Mappings
 
-To enable a user-friendly tool for assessing cohort studies that could be compatible to use as training and validation datasets, we investigated the feature overlap across our datasets. Additionally, the number of available measurements for each follow-up visit was computed to enable visualization of collected measurements through the study length. [script](/patients_per_modality/number_of_patient_per_modality.ipynb)
+To enable a user-friendly tool for assessing cohort studies that could be compatible to use as training and validation datasets, we investigated the feature overlap across our datasets. Additionally, the number of available measurements for each follow-up visit was computed to enable visualization of collected measurements through the study length ([script](/patients_per_modality/number_of_patient_per_modality.ipynb)).
 
 Inputs: 
 * Harmonized feature scape across the cohorts
