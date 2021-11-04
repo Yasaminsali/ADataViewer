@@ -37,7 +37,7 @@ Using the CSV tables we illustrated the following table.
 * To visualize the biomarker distribution, we generated tables that contain measurements of participants for each feature in all datasets
     * The categorical features are Sex, APOE4 and CRD
     * All harmonized numerical features are included
-* There are dedicated [scripts](/Tables_Boxplot) for each diagnostic group as well as one script for all diagnoses
+* There are dedicated [scripts](/tables_boxplot) for each diagnostic group as well as one script for all diagnoses
 * Each script saves the tables where the columns are the "feature + name of cohort" and rows contain the measurements of participants
 
 The tables are then used to generate boxplot for numerical features and stacked barplot for categorical features. Figure below is an example of boxplots.
